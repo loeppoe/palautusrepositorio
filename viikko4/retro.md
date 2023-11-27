@@ -1,0 +1,5 @@
+Retrospektiivitekniikat
+
+Aloita, lopeta, jatka, lisää ja vähemmän-ympyrä retrospektitekniikassa tiimi iteraation päätteksi arvioi ja antaa palautetta edellisestä iteraatiosta käyttäen viittä kategoriaa. Ajaksi on arvioitu 10-25 minuuttia riippuen tiimin koosta. Itse retrospektissä kysytään, että mitä (tiimin) pitäisi aloittaa tekemään, jota ei ole aikaisemmin kokeiltu/tehty; minkä tekeminen tulisi lopettaa; mikä toimi (lisää) ja mikä ei toiminut (vähemmän). Retrospektiä voidaan myös jakaa pienempiin osiin, jos kyseessä on suurempi tiimi tai projekti. Tekniikan on kehittänyt  Ellen Gottesdiener ja Diana Larsen vuonna 2004.
+
+Glad, Sad, Mad-tekniikka on yksinkertainen tapa käydä läpi retrospektiivi, joka keskittyy hieman enemmän laajuuten syvyyden sijasta. Retrospektiin tulisi varata aikaa maksimissaan tunti. Osanottajien huomiot listataan ja sen jälkeen jaetaan kolmeen eri kategoriaan. Osallistujat äänestävät keskusteltavista asioista ja niistä keskustellaan laskevassa järjestyksessä siihen asti kunnes joko kaikki on käyty läpi tai tunti on tullut täyteen. Lähteen mukaan tämä on suosittu tapa tehdä retrospektiivi ja sen alkuperäinen lähde on tuntematon.
